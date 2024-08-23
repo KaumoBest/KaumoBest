@@ -1,0 +1,34 @@
+<html lang="en">
+  <body>
+    <div class="myself">
+      <h1>Hello! I'm Kaumo.</h1>
+      <h2>I'm studying Front-End for now, since 2023</h2>
+    </div>
+    <div class="mySkills">
+      <h3>Skills</h3>
+      <ul>
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li>JavaScript</li>
+          <li>Responsive Design</li>
+          <li>Git/GitHub</li>
+      </ul>
+    </div>
+    <div class="goals">
+      <h3>Goals</h3>
+      <p>I aim to become a full-stack developer in the next few years, with a strong focus on creating immersive and user-friendly web applications.</p>
+    </div>
+    <div class="hob&int">
+      <h3>Hobbies and Interests</h3>
+      <p>Besides coding, I enjoy drawing graffiti, taking photos, and drawing.</p>
+    </div>
+    <div class="socials">
+      <h3>My socials</h3>
+      <ul>
+          <li>Instagram @iam.kwehe</li>
+          <li>Phone: +55(19)97106-0401</li>
+          <li>Email: jvictor.kaumo@gmail.com</li>
+      </ul>
+    </div>
+  </body>
+</html>
